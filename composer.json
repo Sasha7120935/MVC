@@ -1,0 +1,13 @@
+{
+    "name": "task1/task1",
+    "require": {
+        "ext-pdo": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Core\\": "Core/",
+            "App\\": "App/"
+
+        }
+    }
+}
